@@ -5,6 +5,6 @@ int main()
 {
   cout << "Hello" << endl;
   cout << "just added locally" << endl;
-  cout << "another change just added" endl;
+  cout << "another change just added" << endl;
   return 0;
 }
